@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color: lightseagreen;
+}
+
+.main__title--container{
+    display: flex;
+    justify-content: center;
+}
+
+.main__text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+
+.main__input{
+    margin-right: 10px;
+    width: 350px;
+}
+
+.main__btn{
+    width: 80px;
+    height: 40px;
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+    font-weight: bold;
+}
